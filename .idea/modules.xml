@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$USER_HOME$/RubymineProjects/RubyBeginer/.idea/RubyBeginer.iml" filepath="$USER_HOME$/RubymineProjects/RubyBeginer/.idea/RubyBeginer.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/estuk.iml" filepath="$PROJECT_DIR$/.idea/estuk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../spree/mystore/.idea/mystore.iml" filepath="$PROJECT_DIR$/../spree/mystore/.idea/mystore.iml" />
     </modules>
   </component>
 </project>
